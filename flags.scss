@@ -1,0 +1,14 @@
+$flag-width: 100px;
+$flag-height: 60px;
+$flag-border: solid 1px #000;
+
+.flag {
+    border: $flag-border;
+    height: $flag-height;
+    width: $flag-width;
+}
+
+.flag--france {
+    background-color: #fff;
+    background-image: linear-gradient(to right, blue 33.333%, white 33.333%, white 66.666%, red 66.666%);
+}

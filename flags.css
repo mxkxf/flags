@@ -1,11 +1,7 @@
-$flag-width: 100px;
-$flag-height: 60px;
-$flag-border: solid 1px #000;
-
 .flag {
-    border: $flag-border;
-    height: $flag-height;
-    width: $flag-width;
+    border: solid 1px #000;
+    height: 60px;
+    width: 100px;
 }
 
 .flag--france {

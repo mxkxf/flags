@@ -6,8 +6,8 @@
 }
 
 .flag--bulgaria {
-    background-color: #fff;
-    background-image: linear-gradient(white 33.333%, green 33.333%, green 66.666%, red 66.666%);
+  background-color: #fff;
+  background-image: linear-gradient(white 33.333%, green 33.333%, green 66.666%, red 66.666%);
 }
 
 .flag--france {
@@ -16,6 +16,6 @@
 }
 
 .flag--germany {
-	background-color: #fff;
-	background-image: linear-gradient(black 33.333%, red 33.333%, red 66.666%, yellow 66.666%);
+  background-color: #fff;
+  background-image: linear-gradient(black 33.333%, red 33.333%, red 66.666%, yellow 66.666%);
 }

@@ -9,6 +9,12 @@
   background-color: #fff;
   background-image: linear-gradient(#ae001e 33.333%, white 33.333%, white 66.666%, #ae001e 66.666%);
 }
+
+.flag--botswana {
+  background-color: #fff;
+  background-image: linear-gradient(#5da8e9 37.8%, white 37.8%, white 44%, black 44%, black 56%, white 56%, white 62%, #5da8e9 62%);
+}
+
 .flag--bulgaria {
   background-color: #fff;
   background-image: linear-gradient(white 33.333%, green 33.333%, green 66.666%, red 66.666%);

@@ -1,7 +1,9 @@
 flags
 =====
 
-Flags of the world generated in CSS.
+Flags of the world generated in CSS. 
+
+Shouldn't really be used for production at this stage as it's not browser tested and is just at a tech-demo stage, but hopefully if we can grow the collection of flags then we can refactor using a CSS pre-processor.
 
 ## Contributing
 

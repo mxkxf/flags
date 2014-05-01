@@ -5,6 +5,10 @@
   width: 100px;
 }
 
+.flag--austria {
+  background-color: #fff;
+  background-image: linear-gradient(#ae001e 33.333%, white 33.333%, white 66.666%, #ae001e 66.666%);
+}
 .flag--bulgaria {
   background-color: #fff;
   background-image: linear-gradient(white 33.333%, green 33.333%, green 66.666%, red 66.666%);

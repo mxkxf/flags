@@ -35,3 +35,7 @@
 .flag--ireland {
   background-image: linear-gradient(to right, #009b48 33.333%, white 33.333%, white 66.666%, #ff7900 66.666%);
 }
+
+.flag--spain {
+	background-image: linear-gradient(red 25%, yellow 25%, yellow 75%, red 75%);
+}

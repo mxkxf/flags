@@ -20,6 +20,11 @@
   background-image: linear-gradient(white 33.333%, green 33.333%, green 66.666%, red 66.666%);
 }
 
+.flag--finland {
+    background-image: linear-gradient(transparent 33.333%, purple 33.333%, purple 66.666%, transparent 66.666%), 
+                      linear-gradient(to right, transparent 25%, purple 25%, purple 50%, transparent 50%);
+}
+
 .flag--france {
   background-image: linear-gradient(to right, blue 33.333%, white 33.333%, white 66.666%, red 66.666%);
 }

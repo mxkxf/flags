@@ -1,5 +1,5 @@
 .flag {
-  border: solid 1px #000;
+ border: solid 1px #000;
   display: inline-block;
   height: 60px;
   width: 100px;
@@ -13,4 +13,9 @@
 .flag--france {
   background-color: #fff;
   background-image: linear-gradient(to right, blue 33.333%, white 33.333%, white 66.666%, red 66.666%);
+}
+
+.flag--germany {
+	background-color: #fff;
+	background-image: linear-gradient(black 33.333%, red 33.333%, red 66.666%, yellow 66.666%);
 }

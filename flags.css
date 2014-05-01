@@ -1,32 +1,31 @@
 .flag {
-	background-color: #fff;
-	border: solid 1px #000;
-	display: inline-block;
-	height: 60px;
-	width: 100px;
+  background-color: #fff;
+  border: solid 1px #000;
+  display: inline-block;
+  height: 60px;
+  width: 100px;
 }
 
 .flag--bulgaria {
-	background-image: linear-gradient(white 33.333%, green 33.333%, green 66.666%, red 66.666%);
+  background-image: linear-gradient(white 33.333%, green 33.333%, green 66.666%, red 66.666%);
 }
 
 .flag--france {
-	background-image: linear-gradient(to right, blue 33.333%, white 33.333%, white 66.666%, red 66.666%);
+  background-image: linear-gradient(to right, blue 33.333%, white 33.333%, white 66.666%, red 66.666%);
 }
 
 .flag--germany {
-	background-image: linear-gradient(black 33.333%, red 33.333%, red 66.666%, yellow 66.666%);
+  background-image: linear-gradient(black 33.333%, red 33.333%, red 66.666%, yellow 66.666%);
 }
 
 .flag--italy {
-	background-image: linear-gradient(to right, #009246 33.333%, white 33.333%, white 66.666%, #ce2b37 66.666%);
+  background-image: linear-gradient(to right, #009246 33.333%, white 33.333%, white 66.666%, #ce2b37 66.666%);
 }
 
 .flag--ireland {
-	background-image: linear-gradient(to right, #009b48 33.333%, white 33.333%, white 66.666%, #ff7900 66.666%);
+  background-image: linear-gradient(to right, #009b48 33.333%, white 33.333%, white 66.666%, #ff7900 66.666%);
 }
 
 .flag--spain {
-	background-color: #fff;
 	background-image: linear-gradient(red 25%, yellow 25%, yellow 75%, red 75%);
 }

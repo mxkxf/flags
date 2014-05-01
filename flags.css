@@ -44,3 +44,15 @@
 .flag--spain {
 	background-image: linear-gradient(red 25%, yellow 25%, yellow 75%, red 75%);
 }
+
+.flag--england {
+	background-image: linear-gradient(white 33.333%, red 33.333%, red 66.666%, white 66.666%);
+}
+
+.flag--england:after {
+	height: 60px;
+  	width: 100px;
+  	display: block;
+  	content: '';
+	background-image: linear-gradient(to right, rgba(0,0,0,0) 40%, red 40%, red 60%, rgba(0,0,0,0) 60%);
+}

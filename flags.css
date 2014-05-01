@@ -17,3 +17,13 @@
 .flag--germany {
   background-image: linear-gradient(black 33.333%, red 33.333%, red 66.666%, yellow 66.666%);
 }
+
+.flag--italy {
+  background: #fff;
+  background-image: linear-gradient(to right, #009246 33.333%, white 33.333%, white 66.666%, #ce2b37 66.666%);
+}
+
+.flag--ireland {
+  background: #fff;
+  background-image: linear-gradient(to right, #009b48 33.333%, white 33.333%, white 66.666%, #ff7900 66.666%);
+}

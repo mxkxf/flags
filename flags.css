@@ -38,6 +38,18 @@
   background-image: linear-gradient(black 33.333%, red 33.333%, red 66.666%, yellow 66.666%);
 }
 
+.flag--great-britain {
+    background-color: blue;
+    background-image: linear-gradient(transparent 40%, red 40%, red 60%, transparent 60%),
+                      linear-gradient(to right, transparent 40%, red 40%, red 60%, transparent 60%),
+                      linear-gradient(to right, transparent 33.333%, white 33.333%, white 66.666%, transparent 66.666%),
+                      linear-gradient(transparent 33.333%, white 33.333%, white 66.666%, transparent 66.666%),
+                      linear-gradient(to top right, transparent 45%, red 45%, red 55%, transparent 55%),
+                      linear-gradient(to top left, transparent 45%, red 45%, red 55%, transparent 55%),
+                      linear-gradient(to top right, transparent 40%, white 40%, white 60%, transparent 60%), 
+                      linear-gradient(to top left, transparent 40%, white 40%, white 60%, transparent 60%);
+}
+
 .flag--italy {
   background-image: linear-gradient(to right, #009246 33.333%, white 33.333%, white 66.666%, #ce2b37 66.666%);
 }

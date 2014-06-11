@@ -1,7 +1,7 @@
 flags
 =====
 
-Flags of the world generated in CSS.
+Flags of the world generated using CSS gradients.
 
 This is more of a tech-demo rather than a library due to the lack of browser support for Internet Explorer (if you're not supporting IE 9 then be my guest!).
 
@@ -9,9 +9,9 @@ This is more of a tech-demo rather than a library due to the lack of browser sup
 
 * Chrome 10.0 +
 * Firefox 3.6 +
-* Safari 5.1 +
 * Internet Explorer 10 +
-* Opera 11.6 +
+
+[More CSS gradient browser support](http://caniuse.com/css-gradients)
 
 ## Contributing
 

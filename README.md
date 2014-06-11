@@ -5,7 +5,7 @@ Flags of the world generated in CSS.
 
 This is more of a tech-demo rather than a library due to the lack of browser support for Internet Explorer (if you're not supporting IE 9 then be my guest!).
 
-## Suport
+## Support
 
 * Chrome 10.0 +
 * Firefox 3.6 +
